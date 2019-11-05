@@ -4,3 +4,4 @@ tmux/
 google-cloud-sdk/
 #certificate Authority
 ca*
+admin*
