@@ -3,6 +3,5 @@ tmux/
 #google cloud sdk
 google-cloud-sdk/
 #certificate Authority
-ca*
-admin*
-worker*
+*.pem
+*.csr
